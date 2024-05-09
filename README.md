@@ -19,4 +19,4 @@ Este é um projeto que implementa uma Árvore AVL em C++, uma estrutura de dados
 - Ambiente de desenvolvimento ou terminal para compilar e executar o programa.
 
 ## 📝 Licença
-Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE.md para detalhes.
+Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para detalhes.
